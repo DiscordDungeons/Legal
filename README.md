@@ -1,0 +1,2 @@
+# Legal
+DiscordDungeons Legal Documents.
